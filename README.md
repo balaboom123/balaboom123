@@ -4,8 +4,14 @@
 
 I'm **Gorden Chen**, a student studying in **National Changhua University of Education** and major in **Eletrical Engineering**. My porject mostly related to **Machine Learning**
 
-![views](https://komarev.com/ghpvc/?username=balaboom123&style=flat&color=313131&label=views&abbreviated=true)
 
+<p align="left">
+      <img alt="views" src="https://komarev.com/ghpvc/?username=balaboom123&style=for-the-badge&color=313131&label=views&abbreviated=true" />
+      <a href="https://github.com/balaboom123?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/balaboom123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/balaboom123?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/balaboom123?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 <br>
 Here is a diagram of my Achievement:
 <p align="center">

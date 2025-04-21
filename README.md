@@ -2,7 +2,7 @@
 
 ### Welcome to my profile.
 
-I'm **Gorden Chen**, a student studying in **National Changhua University of Education** and major in **Eletrical Engineering**. My porject mostly related to **Machine Learning**
+I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, a student studying in **National Central University** and major in **Computer Science**. My porject mostly related to **Machine Learning**
 
 
 <p align="left">
@@ -22,12 +22,25 @@ Here is a diagram of my Achievement:
 </p>
 
 <br>
-Here is a list of my Projects:
 
-| **Python**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **C**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [How2sign-Youtube-ASL-Dataset-Preprocess](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess) - Preprocess pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic. <br> • [Two-Step-Muti-Biometric-Authentication-System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System) - Utilize face recognition using VGG-16 and voice recognition using ResCNN to construct a authentication system <br> • [Taiwan_Stock_Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor) - Crawl the data from Taiwan trade market and analyze through ML <br> • [Recognition_System_Using_Deepspeaker_and_Dlib](https://github.com/balaboom123/Recognition_System_Using_Deepspeaker_and_Dlib) - A implementation of verification system with the CAPTCHAs   | Content 1-2 with additional text     |
+## Research
+### 🔐 **[Two-Step-Muti-Biometric-Authentication-System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System)**   |   [Published Research](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141)
+  *Technologies: VGG-16, ResCNN, Deep Learning*  
+  Utilize face recognition using VGG-16 and voice recognition using ResCNN to construct an authentication system. 
+  
+## Python Projects
 
+### 📊 **[How2sign-Youtube-ASL-Dataset-Preprocess](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)** 
+  *Technologies: MediaPipe, Python*  
+  Preprocess pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic.
+  
+#### 📈 **[Taiwan_Stock_Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)** 
+  *Technologies: Web Scraping, Machine Learning*  
+  Crawl the data from Taiwan trade market and analyze through ML.
+
+### 🔑 **[Recognition_System_Using_Deepspeaker_and_Dlib](https://github.com/balaboom123/Recognition_System_Using_Deepspeaker_and_Dlib)** 
+  *Technologies: Deepspeaker, Dlib, CAPTCHA*  
+  An implementation of verification system with CAPTCHAs.
 
 
 

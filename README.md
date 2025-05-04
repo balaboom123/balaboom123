@@ -34,7 +34,7 @@ Here is a diagram of my Achievement:
   *Technologies: MediaPipe, Python*  
   Preprocess pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic.
   
-#### 📈 **[Taiwan_Stock_Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)** 
+### 📈 **[Taiwan_Stock_Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)** 
   *Technologies: Web Scraping, Machine Learning*  
   Crawl the data from Taiwan trade market and analyze through ML.
 

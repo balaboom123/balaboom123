@@ -2,7 +2,7 @@
 
 ### Welcome to my profile.
 
-I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, a student studying in **National Central University** and major in **Computer Science**. My porject mostly related to **Machine Learning**
+I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, a student studying in **National Central University** and major in **Computer Science, Artificial Intelligence Specialization**
 
 
 <p align="left">
@@ -13,15 +13,29 @@ I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, a student studying i
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/balaboom123?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 <br>
-Here is a diagram of my Achievement:
+<h3 align="left">Here is a diagram of my Achievement:</h3>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=balaboom123&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=balaboom123&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=balaboom123&show_icons=true&count_private=true&theme=darcula,contribs">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaboom123&show_icons=true&locale=en&layout=compact">
   <br>
   <br>
 </p>
-
 <br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+</p>
 
 ## Research
 ### 🔐 **[Two-Step-Muti-Biometric-Authentication-System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System)**   |   [Published Research](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141)
@@ -30,7 +44,7 @@ Here is a diagram of my Achievement:
   
 ## Python Projects
 
-### 📊 **[How2sign-Youtube-ASL-Dataset-Preprocess](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)** 
+### 📊 **[How2sign Youtube ASL Dataset Preprocess](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)** 
   *Technologies: MediaPipe, Python*  
   Preprocess pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic.
   
@@ -42,6 +56,10 @@ Here is a diagram of my Achievement:
   *Technologies: Deepspeaker, Dlib, CAPTCHA*  
   An implementation of verification system with CAPTCHAs.
 
+## Other Projects
+
+### 🧠 **[Italian Brainrot Collection](https://github.com/balaboom123/Italian-Brainrot-Collection)** 
+  This is a collection to restore all the Italian brainrot.
 
 
 <!--

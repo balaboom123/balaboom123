@@ -2,7 +2,7 @@
 
 ### Welcome to my profile.
 
-I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, a student studying in **National Central University** and major in **Computer Science, Artificial Intelligence Specialization**
+I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, currently pursuing my degree at **National Central University** with a focus on **Computer Science, specializing in Artificial Intelligence**
 
 
 <p align="left">
@@ -12,15 +12,17 @@ I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, a student studying i
       <a href="https://github.com/balaboom123?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/balaboom123?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cacheSeconds=0"/></a>
 </p>
+
 <br>
+
 <h3 align="left">Here is a diagram of my Achievement:</h3>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=balaboom123&show_icons=true&count_private=true&theme=darcula,contribs">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaboom123&show_icons=true&locale=en&layout=compact">
-  <br>
-  <br>
+  <img height=180 width="auto" src ="https://github-readme-stats.vercel.app/api?username=balaboom123&show_icons=true&hide_border=true&count_private=true&theme=darcula,contribs">
+  <img height=180 width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaboom123&show_icons=true&hide_border=true&locale=en&card_width=320&size_weight=0.5&count_weight=0.5">
 </p>
+
 <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> 

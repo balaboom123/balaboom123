@@ -46,7 +46,7 @@ I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, currently pursuing m
   
 ## Python Projects
 
-### 📊 **[How2sign Youtube ASL Dataset Preprocess](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)** 
+### 📊 **[ASL-Preprocessing-Using-MediaPipe](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)** 
   *Technologies: MediaPipe, Python*  
   Preprocess pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic.
   

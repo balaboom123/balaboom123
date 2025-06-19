@@ -60,7 +60,7 @@ I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, currently pursuing m
 
 ## Other Projects
 
-### 🧠 **[Italian Brainrot Collection](https://github.com/balaboom123/Italian-Brainrot-Collection)** 
+### 🧠 **[awesome-italian-brainrot](https://github.com/balaboom123/awesome-italian-brainrot)** 
   This is a collection to restore all the Italian brainrot.
 
 

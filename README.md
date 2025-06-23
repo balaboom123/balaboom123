@@ -18,25 +18,39 @@ I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, currently pursuing m
 <h3 align="left">Here is a diagram of my Achievement:</h3>
 <p align="center">
   <img height=180 width="auto" src ="https://github-readme-stats.vercel.app/api?username=balaboom123&show_icons=true&hide_border=true&count_private=true&theme=darcula,contribs">
-  <img height=180 width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaboom123&show_icons=true&hide_border=true&locale=en&card_width=320&size_weight=0.5&count_weight=0.5">
+  <img height=180 width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaboom123&show_icons=true&hide_border=true&locale=en&card_width=360&size_weight=0.2&count_weight=0.8&layout=compact&langs_count=6">
 </p>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+      <!-- Python -->
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+      <!-- PyTorch -->
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+      <!-- TensorFlow -->
       <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+      <!-- Arduino -->
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+      <!-- C -->
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+      <!-- C++ -->
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+      <!-- Matlab -->
       <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+      </a>
+      <!-- HTML5 -->
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+      </a>
 </p>
 
 ## Research

@@ -2,16 +2,7 @@
 
 ### Welcome to my profile.
 
-I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, currently pursuing my degree at **National Central University** with a focus on **Computer Science, specializing in Artificial Intelligence**
-
-
-<p align="left">
-      <img alt="views" src="https://komarev.com/ghpvc/?username=balaboom123&style=for-the-badge&color=313131&label=views&abbreviated=true" />
-      <a href="https://github.com/balaboom123?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/balaboom123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/balaboom123?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/balaboom123?color=55960c&style=for-the-badge&labelColor=488207&logo=star&cacheSeconds=0"/></a>
-</p>
+I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, currently pursuing my degree at **National Central University** with a focus on **Computer Science, specializing in Artificial Intelligence**. I am enthusiasm in **Natural Language Processing** and **Computer Vision**.
 
 <br>
 

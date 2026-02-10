@@ -1,87 +1,85 @@
-<img align="left" src="https://64.media.tumblr.com/73ac55f8e47e2cbf347a2fc6dffd229b/139f7c30cce80c25-f4/s1280x1920/e58196cd4bdb7f9fedb9842ea83c266d02a400df.png" width="150" height="150">
+<div align="center">
 
-### Welcome to my profile.
+  <img src="https://64.media.tumblr.com/73ac55f8e47e2cbf347a2fc6dffd229b/139f7c30cce80c25-f4/s1280x1920/e58196cd4bdb7f9fedb9842ea83c266d02a400df.png" width="150" height="150">
 
-I'm **Kuan Wei Chen** or you can called me **Gorden Chen**, currently pursuing my degree at **National Central University** with a focus on **Computer Science, specializing in Artificial Intelligence**. I am enthusiasm in **Natural Language Processing** and **Computer Vision**.
+  ### Kuan Wei Chen (Gorden Chen)
 
-<br>
+  **AI Researcher | Computer Science @ National Central University**
 
-<h3 align="left">Here is a diagram of my Achievement:</h3>
-<p align="center">
-  <img height=180 width="auto" src ="https://github-readme-stats.vercel.app/api?username=balaboom123&show_icons=true&hide_border=true&count_private=true&theme=darcula,contribs">
-  <img height=180 width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=balaboom123&show_icons=true&hide_border=true&locale=en&card_width=360&size_weight=0.2&count_weight=0.8&layout=compact&langs_count=6">
-</p>
+  I'm passionate about **Natural Language Processing** and **Computer Vision**,
+  currently pursuing my degree in CS with a specialization in Artificial Intelligence.
 
-<br>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elaping5691@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=balaboom123&color=blueviolet&style=for-the-badge)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-      <!-- Python -->
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-      <!-- PyTorch -->
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-      <!-- TensorFlow -->
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-      <!-- Arduino -->
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-      <!-- C -->
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-      <!-- C++ -->
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-      <!-- Matlab -->
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-      </a>
-      <!-- HTML5 -->
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-      </a>
-</p>
-
-## Research
-### 🔐 **[Two-Step-Muti-Biometric-Authentication-System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System)**   |   [Published Research](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141)
-  *Technologies: VGG-16, ResCNN, Deep Learning*  
-  Utilize face recognition using VGG-16 and voice recognition using ResCNN to construct an authentication system. 
-  
-## Python Projects
-
-### 📊 **[ASL-Preprocessing-Using-MediaPipe](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)** 
-  *Technologies: MediaPipe, Python*  
-  Preprocess pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic.
-  
-### 📈 **[Taiwan_Stock_Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)** 
-  *Technologies: Web Scraping, Machine Learning*  
-  Crawl the data from Taiwan trade market and analyze through ML.
-
-### 🔑 **[Recognition_System_Using_Deepspeaker_and_Dlib](https://github.com/balaboom123/Recognition_System_Using_Deepspeaker_and_Dlib)** 
-  *Technologies: Deepspeaker, Dlib, CAPTCHA*  
-  An implementation of verification system with CAPTCHAs.
-
-## Other Projects
-
-### 🧠 **[awesome-italian-brainrot](https://github.com/balaboom123/awesome-italian-brainrot)** 
-  This is a collection to restore all the Italian brainrot.
-
-
-<!--
-###
-
-<div align="left">
-  <a href=" revise here !!! https://www.linkedin.com/in/(linkin name)/ !!!" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="elaping5691@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="revise here !!! https://www.youtube.com/channel/(channel code) !!!" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
 </div>
 
-###
+---
+
+## GitHub Statistics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+  <br>
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
+  <br>
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=balaboom123&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## Tech Stack
+
+**AI / ML Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Tools & Platforms**
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+## Research
+
+### [Two-Step Multi-Biometric Authentication System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System) &nbsp; [![Published](https://img.shields.io/badge/IET-Published_2024-success?style=flat-square)](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141)
+
+*Technologies: VGG-16, ResCNN, Deep Learning*
+
+A two-step authentication system utilizing face recognition with VGG-16 and voice recognition with ResCNN for enhanced biometric security.
+
+---
+
+## Projects
+
+### [ASL-Preprocessing-Using-MediaPipe](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)
+*Technologies: MediaPipe, Python*
+
+Preprocessing pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic.
+
+### [Taiwan_Stock_Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)
+*Technologies: Web Scraping, Machine Learning*
+
+Crawl data from the Taiwan stock market and analyze through ML models.
+
+### [Recognition_System_Using_Deepspeaker_and_Dlib](https://github.com/balaboom123/Recognition_System_Using_Deepspeaker_and_Dlib)
+*Technologies: Deepspeaker, Dlib, CAPTCHA*
+
+An implementation of a verification system with CAPTCHAs using face and voice recognition.
+
+### [awesome-italian-brainrot](https://github.com/balaboom123/awesome-italian-brainrot)
+
+A collection to catalog all the Italian brainrot.

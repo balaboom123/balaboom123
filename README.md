@@ -19,15 +19,14 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
-  <br>
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
-  <br>
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
+  <!-- Current: nord theme, no frame/bg -->
+  <img src="https://github-profile-trophy.vercel.app/?username=balaboom123&theme=nord&no-frame=true&no-bg=true&column=-1&title=-Followers" alt="GitHub Trophies" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=balaboom123&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <!-- Original: profile-summary-card -->
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
+  <br>
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" />
 </div>
 
 ---
@@ -55,7 +54,7 @@
 
 ## Research
 
-### [Two-Step Multi-Biometric Authentication System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System) &nbsp; [![Published](https://img.shields.io/badge/IET-Published_2024-success?style=flat-square)](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141)
+### [Two-Step Multi-Biometric Authentication System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System) &nbsp; [![Published](https://img.shields.io/badge/IET-Published_2024-success?style=flat-square)](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141) &nbsp; [![arXiv](https://img.shields.io/badge/arXiv-2601.06218-b31b1b?style=flat-square)](https://arxiv.org/abs/2601.06218)
 
 *Technologies: VGG-16, ResCNN, Deep Learning*
 

@@ -3,3 +3,8 @@
 
 # claude
 .claude
+
+# Profile summary cards - only track the nord_dark theme used in README
+profile-summary-card-output/*
+!profile-summary-card-output/nord_dark
+!profile-summary-card-output/nord_dark/**

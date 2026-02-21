@@ -2,7 +2,7 @@
 
   <img src="https://64.media.tumblr.com/73ac55f8e47e2cbf347a2fc6dffd229b/139f7c30cce80c25-f4/s1280x1920/e58196cd4bdb7f9fedb9842ea83c266d02a400df.png" width="150" height="150">
 
-  ### Kuan Wei Chen (Gorden Chen)
+  ### KuanWei Chen (Gorden Chen)
 
   **AI Researcher | Computer Science @ National Central University**
 

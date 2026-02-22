@@ -24,8 +24,12 @@ jobs:
           TROPHY_URL="https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=nord&no-frame=true&no-bg=true&column=-1&title=-Followers"
           OUTPUT_FILE="profile-summary-card-output/nord_dark/github-trophies.svg"
           mkdir -p "$(dirname "$OUTPUT_FILE")"
-          curl -fsSL "$TROPHY_URL" -o "$OUTPUT_FILE"
-          grep -qi "<svg" "$OUTPUT_FILE"
+          if curl -fsSL --retry 3 --retry-delay 10 --retry-all-errors "$TROPHY_URL" -o "$OUTPUT_FILE" && grep -qi "<svg" "$OUTPUT_FILE"; then
+            echo "Trophy SVG downloaded successfully."
+          else
+            echo "Warning: Trophy service unavailable after retries. Skipping trophy update."
+            rm -f "$OUTPUT_FILE"
+          fi
       - name: Update README trophy src and push
         run: |
           set -euo pipefail

@@ -2,7 +2,7 @@
 
   <img src="https://64.media.tumblr.com/73ac55f8e47e2cbf347a2fc6dffd229b/139f7c30cce80c25-f4/s1280x1920/e58196cd4bdb7f9fedb9842ea83c266d02a400df.png" width="150" height="150">
 
-  ### KuanWei Chen (Gorden Chen)
+  ### Kuanwei Chen (Gorden Chen)
 
   **AI Researcher | Computer Science @ National Central University**
 
@@ -10,6 +10,7 @@
   currently pursuing my degree in CS with a specialization in Artificial Intelligence.
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elaping5691@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balaboom123.github.io/)
   ![Profile Views](https://komarev.com/ghpvc/?username=balaboom123&color=blueviolet&style=for-the-badge)
 
 </div>

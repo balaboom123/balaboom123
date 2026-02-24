@@ -21,7 +21,7 @@
 
 <div align="center">
   <!-- Current: nord theme, no frame/bg -->
-  <img src="https://github-profile-trophy.vercel.app/?username=balaboom123&theme=nord&no-frame=true&no-bg=true&column=-1&title=-Followers" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/github-trophies.svg" alt="GitHub Trophies" />
   <br><br>
   <!-- Original: profile-summary-card -->
   <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />

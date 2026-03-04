@@ -18,37 +18,12 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 8
-      - name: Build GitHub trophy SVG
-        run: |
-          set -euo pipefail
-          TROPHY_URL="https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=nord&no-frame=true&no-bg=true&column=-1&title=-Followers"
-          OUTPUT_FILE="profile-summary-card-output/nord_dark/github-trophies.svg"
-          TMP_FILE="${OUTPUT_FILE}.tmp"
-          mkdir -p "$(dirname "$OUTPUT_FILE")"
-          if curl -fsSL --retry 3 --retry-delay 10 --retry-all-errors "$TROPHY_URL" -o "$TMP_FILE" && grep -qi "<svg" "$TMP_FILE"; then
-            mv "$TMP_FILE" "$OUTPUT_FILE"
-            echo "Trophy SVG downloaded successfully."
-          else
-            echo "Warning: Trophy service unavailable after retries. Skipping trophy update."
-            rm -f "$TMP_FILE"
-            if [ -f "$OUTPUT_FILE" ]; then
-              echo "Keeping existing cached trophy SVG."
-            else
-              echo "No cached trophy SVG exists yet."
-            fi
-          fi
       - name: Commit and push updates
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          TROPHY_FILE="profile-summary-card-output/nord_dark/github-trophies.svg"
-          if [ -f "$TROPHY_FILE" ]; then
-            RAW_TROPHY_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/$TROPHY_FILE"
-            perl -0pi -e 's|https://github-profile-trophy\.vercel\.app/\?[^"]*|'"$RAW_TROPHY_URL"'|g' README.md
-            git add README.md "$TROPHY_FILE"
-          fi
           git add -A profile-summary-card-output/
           if ! git diff --cached --quiet; then
             git commit -m "Generate profile summary cards"

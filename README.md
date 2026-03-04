@@ -9,10 +9,15 @@
   I'm passionate about **Natural Language Processing** and **Computer Vision**,
   currently pursuing my degree in CS with a specialization in Artificial Intelligence.
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elaping5691@gmail.com)
-  [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balaboom123.github.io/)
-  ![Profile Views](https://komarev.com/ghpvc/?username=balaboom123&color=blueviolet&style=for-the-badge)
-
+  <a href="mailto:elaping5691@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;<a href="https://balaboom123.github.io/">
+    <img src="https://img.shields.io/badge/Website-34A853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=OFjN6JUAAAAJ&hl=zh-TW">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -20,9 +25,6 @@
 ## GitHub Statistics
 
 <div align="center">
-  <!-- Current: nord theme, no frame/bg -->
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/github-trophies.svg" alt="GitHub Trophies" />
-  <br><br>
   <!-- Original: profile-summary-card -->
   <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
   <br>
@@ -32,6 +34,7 @@
 
 ---
 
+<!--
 ## Tech Stack
 
 **AI / ML Frameworks**
@@ -50,36 +53,37 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+-->
+
+## 🚀 Research & Publications
+
+### [Two-step authentication: multi-biometric system using voice and facial recognition](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System)
+![First Author](https://img.shields.io/badge/Status-First_Author-blue?style=flat) &nbsp;
+![IET](https://img.shields.io/badge/IET_ICETA-Published_2024-success?style=flat) &nbsp;
+![arXiv](https://img.shields.io/badge/arXiv-2601.06218-b31b1b?style=flat)
+
+- A system integrated **VGG-16** (Face) and **ResCNN** (Voice) recognition for enhanced biometric security.
+- **Tech Stack:** `Python` `PyTorch` `Deep Learning` `Signal Processing`
 
 ---
 
-## Research
+## 🛠️ Projects
 
-### [Two-Step Multi-Biometric Authentication System](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System) &nbsp; [![Published](https://img.shields.io/badge/IET-Published_2024-success?style=flat-square)](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141) &nbsp; [![arXiv](https://img.shields.io/badge/arXiv-2601.06218-b31b1b?style=flat-square)](https://arxiv.org/abs/2601.06218)
+### [Sign Language Preprocessing](https://github.com/balaboom123/Sign-Language-Preprocessing)
 
-*Technologies: VGG-16, ResCNN, Deep Learning*
+- Preprocessing pipeline for **YouTube-ASL** and **How2Sign** datasets through MediaPipe Holistic.
+- **Tech Stack:** `Python` `MediaPipe`
 
-A two-step authentication system utilizing face recognition with VGG-16 and voice recognition with ResCNN for enhanced biometric security.
+### [Taiwan Stock Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)
 
----
+- Crawl data from the **Taiwan stock market** and analyze through ML models.
+- **Tech Stack:** `Python` `Web Scraping` `Machine Learning`
 
-## Projects
+### [Recognition System Using Deepspeaker and Dlib](https://github.com/balaboom123/Recognition_System_Using_Deepspeaker_and_Dlib)
 
-### [ASL-Preprocessing-Using-MediaPipe](https://github.com/balaboom123/How2sign-Youtube-ASL-Dataset-Preprocess)
-*Technologies: MediaPipe, Python*
+- A verification system with **CAPTCHAs** using **Deepspeaker** (Voice) and **Dlib** (Face) recognition.
+- **Tech Stack:** `Python` `Deepspeaker` `Dlib` `CAPTCHA`
 
-Preprocessing pipeline for YouTube-ASL and How2Sign datasets through MediaPipe Holistic.
+### [awesome italian brainrot](https://github.com/balaboom123/awesome-italian-brainrot)
 
-### [Taiwan_Stock_Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)
-*Technologies: Web Scraping, Machine Learning*
-
-Crawl data from the Taiwan stock market and analyze through ML models.
-
-### [Recognition_System_Using_Deepspeaker_and_Dlib](https://github.com/balaboom123/Recognition_System_Using_Deepspeaker_and_Dlib)
-*Technologies: Deepspeaker, Dlib, CAPTCHA*
-
-An implementation of a verification system with CAPTCHAs using face and voice recognition.
-
-### [awesome-italian-brainrot](https://github.com/balaboom123/awesome-italian-brainrot)
-
-A collection to catalog all the Italian brainrot.
+- A collection to catalog all the Italian brainrot.

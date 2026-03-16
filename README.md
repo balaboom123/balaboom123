@@ -1,16 +1,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Kuanwei%20Chen%20🚀%&width=800&height=110" alt="SVG Banners" />
-  </a>
-<!--
-  <img src="https://64.media.tumblr.com/73ac55f8e47e2cbf347a2fc6dffd229b/139f7c30cce80c25-f4/s1280x1920/e58196cd4bdb7f9fedb9842ea83c266d02a400df.png" width="150" height="150">
--->
-  
-### Kuanwei Chen (Gorden Chen)
-
-  **AI Researcher | Computer Science @ National Central University**
+<!-- Animated Header -->
+<img src="https://balaboom123-capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kuanwei%20Chen&fontSize=42&fontColor=fff&anmatioin=twinkling&fontAlignY=32&desc=%20Computer%20Science%20@%20National%20Central%20University&descAlignY=52&descSize=18"/>
 
   I'm passionate about **Natural Language Processing** and **Computer Vision**,
   currently pursuing my Master's degree in CS (**AI Track**).
@@ -64,8 +56,8 @@
 ## 🚀 Research & Publications
 
 ### [Two-step authentication: multi-biometric system using voice and facial recognition](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System)
-![IET](https://img.shields.io/badge/IET_ICETA_2024-First_Author-success?style=flat) &nbsp;
-![arXiv](https://img.shields.io/badge/arXiv-2601.06218-b31b1b?style=flat) &nbsp;
+[![IET](https://img.shields.io/badge/IET_ICETA_2024-First_Author-success?style=flat)](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141) &nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-2601.06218-b31b1b?style=flat)](https://arxiv.org/abs/2601.06218) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System) &nbsp;
 
 - A system integrated **VGG-16** (Face) and **ResCNN** (Voice) recognition for enhanced biometric security.

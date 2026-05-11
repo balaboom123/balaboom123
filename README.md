@@ -23,16 +23,15 @@
 ## GitHub Statistics
 
 <div align="center">
-  <!-- Original: profile-summary-card -->
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
+  <!-- Profile details from profile-summary-card -->
+  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" width="600" />
   <br>
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/balaboom123/balaboom123/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://github-readme-stats-balaboom123.vercel.app/api?username=balaboom123&show_icons=true&hide=contribs&card_width=500&cache_seconds=86400&theme=nord" alt="GitHub Stats" width="600" />
 </div>
 
 ---
 
-<!--
+<!-- material
 ## Tech Stack
 
 **AI / ML Frameworks**
@@ -51,7 +50,29 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+## fold the information through HTML
+<details>
+<summary><b>📂 View More Projects</b></summary>
+
+ - A system integrated **VGG-16** (Face) and **ResCNN** (Voice) recognition for enhanced biometric security.
+ - **Tech Stack:** `TensorFlow` `CNN` `Signal Processing` `Deep Learning`
+</details>
+
 -->
+---
+
+## 🛠 Open Source Toolkits
+
+### [SignDATA: Data Pipeline for Sign Language Translation](https://github.com/balaboom123/Sign-Language-Preprocessing)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat)]() &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/balaboom123/signdata-slt) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/balaboom123/signdata-slt?style=social)
+
+- Modular, config-driven pipeline for preprocessing Sign Language datasets with pose and video outputs using MediaPipe, MMPose, and YOLO.
+- **Tech Stack:** `Python` `MediaPipe` `MMPose` `YOLO`
+
+---
 
 ## 🚀 Research & Publications
 
@@ -59,29 +80,40 @@
 [![IET](https://img.shields.io/badge/IET_ICETA_2024-First_Author-success?style=flat)](https://digital-library.theiet.org/doi/abs/10.1049/icp.2024.4141) &nbsp;
 [![arXiv](https://img.shields.io/badge/arXiv-2601.06218-b31b1b?style=flat)](https://arxiv.org/abs/2601.06218) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/NCUE-EE-AIAL/Two-Step-Muti-Biometric-Authentication-System?style=social) &nbsp;
 
-- A system integrated **VGG-16** (Face) and **ResCNN** (Voice) recognition for enhanced biometric security.
-- **Tech Stack:** `Python` `PyTorch` `Deep Learning` `Signal Processing`
+ - A system integrated **VGG-16** (Face) and **ResCNN** (Voice) recognition for enhanced biometric security.
+ - **Tech Stack:** `TensorFlow` `CNN` `Signal Processing` `Deep Learning`
+
+
+### [STR-Lite: Lightweight Masked Autoencoders for Adaptable Scene Text Recognition](https://github.com/balaboom123/STR-Lite)
+[![IEEE](https://img.shields.io/badge/Coming_Soon-First_Author-success?style=flat)]() &nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat)]() &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/balaboom123/STR-Lite) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/balaboom123/STR-Lite?style=social) &nbsp;
+
+- A 6M-params lightweight STR framework leveraging MAE pretraining to achieve high accuracy in Union14M dataset.
+- **Tech Stack:** `PyTorch` `Masked Autoencoding (MAE)` `Vision Transformer`
+  
+
+### Towards Compact Sign Language Translation: Frame Rate and Model Size Trade-offs
+[![IEEE](https://img.shields.io/badge/Coming_Soon-First_Author-success?style=flat)]() &nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat)]() &nbsp;
+
+- Using pose extraction and T5-small to study on the Frame rate influence on Sign Language Translation.
+- **Tech Stack:** `PyTorch` `Google-T5` `Vision Transformer`
 
 ---
 
-## 🛠️ Projects
-
-### [Sign Language Preprocessing](https://github.com/balaboom123/Sign-Language-Preprocessing)
-
-- Preprocessing pipeline for **YouTube-ASL** and **How2Sign** datasets through MediaPipe Holistic.
-- **Tech Stack:** `Python` `MediaPipe`
-
-### [Taiwan Stock Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)
-
-- Crawl data from the **Taiwan stock market** and analyze through ML models.
-- **Tech Stack:** `Python` `Web Scraping` `Machine Learning`
-
-### [Recognition System Using Deepspeaker and Dlib](https://github.com/balaboom123/Recognition_System_Using_Deepspeaker_and_Dlib)
-
-- A verification system with **CAPTCHAs** using **Deepspeaker** (Voice) and **Dlib** (Face) recognition.
-- **Tech Stack:** `Python` `Deepspeaker` `Dlib` `CAPTCHA`
+## ️⚙️ Other Projects
 
 ### [awesome italian brainrot](https://github.com/balaboom123/awesome-italian-brainrot)
-
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/balaboom123/awesome-italian-brainrot) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/balaboom123/awesome-italian-brainrot?style=social) &nbsp;
 - A collection to catalog all the Italian brainrot.
+
+### [Taiwan Stock Predictor](https://github.com/balaboom123/Taiwan_Stock_Predictor)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/balaboom123/Taiwan_Stock_Predictore) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/balaboom123/Taiwan_Stock_Predictor?style=social) &nbsp;
+- Crawl data from the **Taiwan stock market** and analyze through ML models.
+- **Tech Stack:** `Python` `Web Scraping` `Machine Learning`

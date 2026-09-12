@@ -2,7 +2,7 @@
 
 <div align="center">
 <!-- Animated Header -->
-<img src="https://balaboom123-capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kuanwei%20Chen&fontSize=42&fontColor=fff&anmatioin=twinkling&fontAlignY=32&desc=%20Computer%20Science%20@%20National%20Central%20University&descAlignY=52&descSize=18"/>
+<img src="https://balaboom123-capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kuanwei%20Chen&fontSize=42&fontColor=fff&anmatioin=twinkling&fontAlignY=32&desc=%20Computer%20Science%20@%20NLP%20and%20CV&descAlignY=52&descSize=18"/>
 
   I'm passionate about **Natural Language Processing** and **Computer Vision**,
   currently pursuing my Master's degree in CS (**AI Track**).
@@ -65,7 +65,7 @@
 ## 🛠 Open Source Toolkits
 
 ### [SignDATA: Data Pipeline for Sign Language Translation](https://github.com/balaboom123/Sign-Language-Preprocessing)
-[![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat)]() &nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-2604.20357-b31b1b?style=flat)](https://arxiv.org/abs/2604.20357) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/balaboom123/signdata-slt) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/balaboom123/signdata-slt?style=social)
 
@@ -87,7 +87,7 @@
 
 
 ### [STR-Lite: Lightweight Masked Autoencoders for Adaptable Scene Text Recognition](https://github.com/balaboom123/STR-Lite)
-[![IEEE](https://img.shields.io/badge/Coming_Soon-First_Author-success?style=flat)]() &nbsp;
+[![IEEE](https://img.shields.io/badge/IEEE_ICCE_TW_2026-First_Author-success?style=flat)]() &nbsp;
 [![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat)]() &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-lightgrey?style=flat&logo=github)](https://github.com/balaboom123/STR-Lite) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/balaboom123/STR-Lite?style=social) &nbsp;
@@ -97,8 +97,8 @@
   
 
 ### Towards Compact Sign Language Translation: Frame Rate and Model Size Trade-offs
-[![IEEE](https://img.shields.io/badge/Coming_Soon-First_Author-success?style=flat)]() &nbsp;
-[![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b?style=flat)]() &nbsp;
+[![IEEE](https://img.shields.io/badge/IEEE_ICCE_TW_2026-First_Author-success?style=flat)]() &nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-2605.09554-b31b1b?style=flat)](https://arxiv.org/abs/2605.09554) &nbsp;
 
 - Using pose extraction and T5-small to study on the Frame rate influence on Sign Language Translation.
 - **Tech Stack:** `PyTorch` `Google-T5` `Vision Transformer`
